@@ -122,6 +122,15 @@ var music = programming('Ты любишь музыку');
 
 if (music == 'Да') {
     var grup = prompt('Какая музыка твоя любимая?');
+
+    if (grup == 'Beliver') {
+        alert('Immages Dragons моя любимая группа');
+    } else {
+        alert('Буду занать');
+        alert('Выключение.....');
+    }
+} else if (music == 'Нет') {
+    alert('Я тоже релко слушаю');
 }
 //Заключение.
 //Спасибо тем кто доиграл до конца.
