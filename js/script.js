@@ -143,7 +143,13 @@ if (videogame == 'Да') {
     var favegame = prompt('какая твоя любимая видеоигра?');
 
     if (favegame == 'Undertale') {
-        alert('Я ужедавно в неё не играл.');
+        alert('Мне нравилась эта игра.');
+    } else if (favegame == 'SkyRim') {
+        alert('У тебя отличный вкус!');
+    } else if (favegame == 'Minecraft') {
+        alert('Хаха. Я не кдивлён.');
+    } else {
+        alert('Я не играл');
     }
 }
 //Заключение.
