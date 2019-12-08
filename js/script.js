@@ -14,9 +14,12 @@ if (myname == 'Данил') {
     alert('Моего брата так завут.');
 } else if (myname == 'PewDiePie') {
     alert('Это правда ты?');
-} else if (myname == 'Мария' || 'Маргарита') {
+} else if (myname == 'Маргарита') {
     alert('Красивое имя');
 } else {
     alert('А меня зовут Данил');
 }
+
 //Некоторые имена моих знакомых.
+
+var howreu = prompt('Как твои дела?');
