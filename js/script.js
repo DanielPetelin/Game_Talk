@@ -100,10 +100,17 @@ var programming = prompt('Ты программируешь?');
 if (prompt == 'Да') {
     alert('Я тоже');
 
-    var how = prompt('какой твой любимый язык программирования?');
+    var language = prompt('какой твой любимый язык программирования?');
 
-    if (how == 'JavaScript') {
+    if (language == 'JavaScript') {
         alert('Я тоже его люблю');
+    } else if (language == 'HTML') {
+        alert('Я на нём пишу');
+    } else if (language == 'CSS') {
+        alert('Я начал на нём писать');
+    } else {
+        alert('Интересно');
+        alert('До встречи');
     }
 }
 //Заключение.
