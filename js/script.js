@@ -46,7 +46,7 @@ if (howreu == 'Хорошо') {
                     alert('Извини, пока ' + name);
                 }
         }
-
+//Диолог
 } else if (howreu == 'Нармально') {
     alert('Я рад!');
 } else {
