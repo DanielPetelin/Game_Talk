@@ -12,4 +12,6 @@ if (myname == 'Данил') {
     alert('Моего друга тоже так зовут!')
 } else if (myname == 'Егор') {
     alert('Моего брата так завут.');
+} else if (myname == 'PewDiePie') {
+    alert('Это правда ты?');
 }
