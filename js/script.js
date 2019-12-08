@@ -88,3 +88,5 @@ if (ohenki == 'Плохо') {
 }
 
 //Об учёбе
+
+var poka = prompt();
