@@ -67,4 +67,8 @@ if (sport == 'Футбол') {
     alert('Это больно.');
 } else if (sport == 'Киберспорт') {
     alert('Хахах!');
+} else {
+    alert('непомню такого');
 }
+
+var ohenki = prompt('А ты хорошо учишься?');
