@@ -26,4 +26,8 @@ var howreu = prompt('Как твои дела?');
 
 if (howreu == 'Хорошо') {
     alert('У меня тоже');
+} else if (howreu == 'Плохо') {
+    alert('не расстраивайся')
+} else if ('Нармально') {
+    alert('Я рад!');
 }
